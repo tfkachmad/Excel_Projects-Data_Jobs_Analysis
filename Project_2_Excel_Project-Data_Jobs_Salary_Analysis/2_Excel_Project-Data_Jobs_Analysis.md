@@ -1,4 +1,4 @@
-# 📊 **Data Science Salary Analysis**
+# 📊 **Data Jobs Salary Analysis**
 
 ## 🔎 **Introduction**
 
