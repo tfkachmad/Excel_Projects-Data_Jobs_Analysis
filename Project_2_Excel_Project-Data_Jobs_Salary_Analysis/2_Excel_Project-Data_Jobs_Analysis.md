@@ -83,7 +83,7 @@ I loaded the cleaned data into the workbook for further analysis.
 
 #### 📊 **Analysis & Insights**
 
-![[skills_vs_pay_scatter.png]]
+![](../img/skills_vs_pay_scatter.png)
 
 - 📈 **More skills = Higher salary** (especially for **Senior Data Engineers** & **Data Scientists**)
 - 💼 Jobs with fewer required skills (**e.g., Business Analyst**) offer lower salaries
